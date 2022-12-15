@@ -1,5 +1,9 @@
 {
+  "hosting": {
+    "site": "re-coded-facebook",
+    "public": "public"
+  },
   "projects": {
-    "default": "recodedfacebook"
+    "default": "recoded-facebook-d511b"
   }
 }

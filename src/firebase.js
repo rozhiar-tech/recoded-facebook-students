@@ -2,13 +2,12 @@ import firebase from "firebase";
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyDPFwcO5W4cSdCIBU4zYSWd2Hsi52CLNQs",
-  authDomain: "recodedfacebook.firebaseapp.com",
-  databaseURL: "https://recodedfacebook.firebaseio.com",
-  projectId: "recodedfacebook",
-  storageBucket: "recodedfacebook.appspot.com",
-  messagingSenderId: "792119652578",
-  appId: "1:792119652578:web:6f456d9c56b5bf6c876ebb",
+  apiKey: "AIzaSyBzXZtQOafCGLAAEcrzQx9BnL9SuuALmEc",
+  authDomain: "recoded-facebook-d511b.firebaseapp.com",
+  projectId: "recoded-facebook-d511b",
+  storageBucket: "recoded-facebook-d511b.appspot.com",
+  messagingSenderId: "917106966426",
+  appId: "1:917106966426:web:a06a29269ff78caf040423",
 };
 
 // Initialize Firebase

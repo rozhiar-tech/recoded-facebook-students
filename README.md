@@ -5,14 +5,14 @@ In this project, we will be writing the Re:Coded Facebook.
 It is composed of two parts:
 
 1. A signup page (you write this)
-2. [A page to view the members](https://recodedfacebook.web.app/facebook) (I wrote this)
+2. [A page to view the members](https://recoded-facebook-d511b.web.app/facebook) (I wrote this)
 
 ## Learning Goals
 
 - Practice open-endedness and debugging
 - Learn to authenticate a user using Firebase Auth Google Account sign-in
 - Learn to use React Bootstrap (if you haven't already)
-- Generate billions of dollars (50-50 between me...and Ammar. We'll buy each of you a döner when we sell, to thank you for your hard work)
+- Generate billions of dollars (equally between trainer. We'll buy each of you a falafel sandwich when we sell, to thank you for your hard work)
 
 ## Requirements
 
