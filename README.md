@@ -71,7 +71,7 @@ If you finish early, you will be given Github access to the super secret, propri
 
 As mentioned previously in class, the purpose of this exercise is to challenge our ability to tackle ambiguity and strengthen our individual coding skills. While certainly there is a feeling of satisfaction from completion, no one will judge you on whether you do or don't complete this activity over the many sessions that we do in class.
 
-I realize these are fairly strict rules, but you will have to give some trust to Ammar and I as your instructors when we emphasize the importance of being able to operate individually in coding.
+I realize these are fairly strict rules, but you will have to give some trust to your instructors when we emphasize the importance of being able to operate individually in coding.
 
 - **No asking a human questions on how to fix something.** The only exception is in the first class if you have some setup issues on your machine; for some reason the app is not running.
 - **No sharing of code.** No one should ever see your code (valuable intellectual property) unless both people have completed the activity.
