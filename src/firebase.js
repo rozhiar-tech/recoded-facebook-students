@@ -1,7 +1,13 @@
-import firebase from "firebase";
+import {initializeApp } from 'firebase/app';
+import 'firebase/auth';
+import 'firebase/firestore';
+import 'firebase/storage';
+// import 'firebase/analytic';
+import 'firebase/performance';
+
 
 // Your web app's Firebase configuration
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyBzXZtQOafCGLAAEcrzQx9BnL9SuuALmEc",
   authDomain: "recoded-facebook-d511b.firebaseapp.com",
   projectId: "recoded-facebook-d511b",
@@ -11,7 +17,7 @@ var firebaseConfig = {
 };
 
 // Initialize Firebase
-const firebaseApp = firebase.initializeApp(firebaseConfig);
-const db = firebaseApp.firestore();
+const app = initializeApp(firebaseConfig);
 
-export default db;
+
+export default app;
